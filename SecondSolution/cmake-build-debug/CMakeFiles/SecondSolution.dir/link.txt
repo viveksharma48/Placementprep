@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SecondSolution.dir/main.cpp.o  -o SecondSolution 
