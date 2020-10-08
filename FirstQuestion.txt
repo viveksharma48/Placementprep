@@ -1,0 +1,30 @@
+Minimum Increment By k
+
+
+Question :
+
+You are given an array of n-elements, you have to find the number of operations needed to make all elements of array equal. Where a single operation can increment an element by k. If it is not possible to make all elements equal print -1.
+
+
+Input Explanation:
+
+first line contains n, k
+second line contains n elements
+
+
+Input :
+
+4  3
+1  7  10  4 
+
+
+Expected Output :
+
+6
+
+
+Output Explanation : 
+
+( 1 + 3 + 3 + 3 )
+( 7 + 3 )
+( 4 + 3 + 3 )
